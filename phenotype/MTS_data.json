@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "MTS_question": {
+        "Description": "Response to whether the participant believes they have mirror-touch synesthesia",
+        "Levels": {
+            "Yes": "Participant believes they have mirror-touch synesthesia",
+            "No": "Participant does not believe they have mirror-touch synesthesia"
+        }
+    },
+    "Experience": {
+        "Description": "Participant's description of what the experience of mirror-touch synesthesia is like",
+        "Units": "Free-text response"
+    },
+    "Reliability": {
+        "Description": "Response to whether the participant always feels touch when seeing someone else being touched or only in certain circumstances",
+        "Units": "Free-text response"
+    },
+    "Localisation": {
+        "Description": "Description of where on their body the participant feels the mirror-touch sensations, including whether the sensation is in the same place as the observed touch or more general",
+        "Units": "Free-text response"
+    }
+}
