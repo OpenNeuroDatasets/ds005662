@@ -1,0 +1,88 @@
+{
+    "onsetsample": {
+        "Description": "Sample number at which the event occurred.",
+        "Units": "samples"
+    },
+    "eventnumber": {
+        "Description": "Sequential number assigned to each event.",
+        "Units": "integer"
+    },
+    "subjectnr": {
+        "Description": "Subject number associated with the event.",
+        "Units": "integer"
+    },
+    "sequencenumber": {
+        "Description": "Sequence number of the event in the task.",
+        "Units": "integer"
+    },
+    "blocksequencenumber": {
+        "Description": "Sequence number of the block in which the event occurred.",
+        "Units": "integer"
+    },
+    "istarget": {
+        "Description": "Whether the event was a target stimulus.",
+        "Levels": {
+            "0": "Non-target",
+            "1": "Target"
+        }
+    },
+    "presentationnumber": {
+        "Description": "Number representing the order of the event presentation.",
+        "Units": "integer"
+    },
+    "stimnumber": {
+        "Description": "Identifier for the stimulus presented during the event.",
+        "Units": "integer"
+    },
+    "stim": {
+        "Description": "Relative file path to the stimulus presented."
+    },
+    "stimname": {
+        "Description": "Name of the stimulus presented."
+    },
+    "time_stimon": {
+        "Description": "Time in seconds when the stimulus turned on.",
+        "Units": "seconds"
+    },
+    "time_stimoff": {
+        "Description": "Time in seconds when the stimulus turned off.",
+        "Units": "seconds"
+    },
+    "stimdur": {
+        "Description": "Duration of the stimulus presentation.",
+        "Units": "seconds"
+    },
+    "cresp": {
+        "Description": "Correct response for the event.",
+        "Levels": {
+            "1": "Correct",
+            "0": "Incorrect"
+        }
+    },
+    "resp": {
+        "Description": "Response given by the participant.",
+        "Levels": {
+            "1": "Correct response",
+            "0": "Incorrect response"
+        }
+    },
+    "rt": {
+        "Description": "Reaction time of the participant.",
+        "Units": "seconds"
+    },
+    "correct": {
+        "Description": "Whether the participant's response was correct.",
+        "Levels": {
+            "1": "Correct",
+            "0": "Incorrect"
+        }
+    },
+    "StimulusPresentation": {
+        "PresentationSoftware": "PsychoPy",
+        "PresentationSoftwareVersion": "2023.3.1",
+        "Device": "ViewPixx 24-inch monitor",
+        "DeviceModelNumber": "VPX-VPX-2006B",
+        "DeviceSerialNumber": "65020-1950",
+        "RefreshRate": 120
+    }
+}

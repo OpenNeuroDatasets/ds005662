@@ -1,0 +1,98 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "Group": {
+        "Description": "Group assignment based on participants' responses to observing touch videos",
+        "Levels": {
+            "VT": "Vicarious touch group",
+            "noVT": "No-vicarious touch group"
+        }
+    },
+    "Vicarious_touches": {
+        "Description": "Number of video trials in which the participant reported feeling a tactile sensation"
+    },
+    "Hand_touches": {
+        "Description": "Number of video trials in which the tactile sensation was localised to one or both hands"
+    },
+    "Both_hands": {
+        "Description": "Number of video trials in which the tactile sensation was felt on both hands"
+    },
+    "Left_hand": {
+        "Description": "Number of video trials in which the tactile sensation was felt on the left hand"
+    },
+    "Right_hand": {
+        "Description": "Number of video trials in which the tactile sensation was felt on the right hand"
+    },
+    "Finger": {
+        "Description": "Number of video trials in which the tactile sensation was felt on the finger"
+    },
+    "V*_Feel_touch": {
+        "Description": "Whether the participant experienced a tactile sensation while watching the video",
+        "Levels": {
+            "Yes": "Participant felt a tactile sensation",
+            "No": "Participant did not feel a tactile sensation"
+        }
+    },
+    "V*_Sensation": {
+        "Description": "The type(s) of sensation experienced by the participant",
+        "Levels": {
+            "Touch": "Touch",
+            "Pain": "Pain",
+            "Tingling": "Tingling",
+            "Pressure": "Pressure",
+            "Scratching": "Scratching",
+            "Ticklish": "Ticklish",
+            "Warm": "Warm",
+            "Cold": "Cold",
+            "Other": "Other sensation (described by participant)"
+        }
+    },
+    "V*_Sensation_text": {
+        "Description": "Free-text description of the sensation experienced"
+    },
+    "V*_Intensity": {
+        "Description": "Intensity of the sensation experienced",
+        "Units": "Rating on a scale of 1 (not at all) to 10 (extremely)"
+    },
+    "V*_Category": {
+        "Description": "How the sensation felt to the participant",
+        "Levels": {
+            "Neutral": "Neutral",
+            "Pleasant": "Pleasant",
+            "Unpleasant": "Unpleasant",
+            "Painful": "Painful"
+        }
+    },
+    "V*_How_pleasant": {
+        "Description": "How pleasant the sensation was",
+        "Units": "Rating on a scale of 1 (not at all) to 10 (extremely)"
+    },
+    "V*_How_unpleasant": {
+        "Description": "How unpleasant the sensation was",
+        "Units": "Rating on a scale of 1 (not at all) to 10 (extremely)"
+    },
+    "V*_How_painful": {
+        "Description": "How painful the sensation was",
+        "Units": "Rating on a scale of 1 (not at all) to 10 (extremely)"
+    },
+    "V*_Where": {
+        "Description": "Location on the participant's body where the tactile sensation was felt",
+        "Levels": {
+            "Left hand": "Left hand",
+            "Right hand": "Right hand",
+            "Another body part": "Another body part (described by participant)",
+            "A general feeling": "A general feeling (described by participant)",
+            "Other": "Other location (described by participant)"
+        }
+    },
+    "V*_Where_text1": {
+        "Description": "First free-text description of where the participant felt the tactile sensation"
+    },
+    "V*_Where_text2": {
+        "Description": "Second free-text description of where the participant felt the tactile sensation"
+    },
+    "V*_Where_text3": {
+        "Description": "Third free-text description of where the participant felt the tactile sensation"
+    }
+}
