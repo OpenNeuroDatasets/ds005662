@@ -1,6 +1,6 @@
 {
   "Name": "A high-quality EEG dataset for studying visual touch perception",
-  "BIDSVersion": "1.9.0",
+  "BIDSVersion": "1.0.0",
   "DatasetType": "raw",
   "License": "CC0",
   "Authors": [
