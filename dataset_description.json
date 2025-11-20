@@ -1,44 +1,41 @@
 {
-    "Name": "A comprehensive EEG dataset for investigating visual touch perception",
-    "BIDSVersion": "1.9.0",
-    "DatasetType": "raw",
-    "License": "CC0",
-    "Authors": [
-        "Sophie Smit",
-        "Almudena Ramírez-Haro",
-        "Manuel Varlet",
-        "Denise Moerel",
-        "Genevieve L. Quek",
-        "Tijl Grootswagers"
-    ],
-    "Acknowledgements": "We thank our participants and funding sources.",
-    "HowToAcknowledge": "Smit, S., Ramírez-Haro, A., Varlet, M., Moerel, D., Quek, G. L., & Grootswagers, T. (2025). A comprehensive EEG dataset for investigating visual touch perception. bioRxiv, 2025-07.",
-    "Funding": [
-        "This research was supported by Australian Research Council grants DP220103047 (MV) and DE230100380 (TG)."
-    ],
-    "EthicsApprovals": [
-        "Approval from the Western Sydney University Ethics Committee (project number: H15644)"
-    ],
-    "ReferencesAndLinks": [
-        ""
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005662.v1.0.2",
-    "GeneratedBy": [
-        {
-            "Name": "PsychoPy",
-            "Version": "2023.3.1",
-            "Description": "Used to program and run the experiment."
-        },
-        {
-            "Name": "Python",
-            "Version": "3.9.13",
-            "Description": "Used for scripting and experiment control."
-        },
-        {
-            "Name": "MNE-Python",
-            "Version": "1.7",
-            "Description": "Used for preprocessing and subsequent data analyses."
-        }
-    ],
-    "SourceDatasets": []
+  "Name": "A high-quality EEG dataset for studying visual touch perception",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Sophie Smit",
+    "Almudena Ramírez-Haro",
+    "Manuel Varlet",
+    "Denise Moerel",
+    "Genevieve L. Quek",
+    "Tijl Grootswagers"
+  ],
+  "Acknowledgements": "We thank our participants and funding sources.",
+  "HowToAcknowledge": "Please cite Smit et al. (2025) when using this dataset.",
+  "Funding": [
+    "This research was supported by Australian Research Council grants DP220103047 (MV) and DE230100380 (TG)."
+  ],
+  "EthicsApprovals": [
+    "Approval from the Western Sydney University Ethics Committee (project number: H15644)"
+  ],
+  "ReferencesAndLinks": [],
+  "GeneratedBy": [
+    {
+      "Name": "PsychoPy",
+      "Version": "2023.3.1",
+      "Description": "Used to program and run the experiment."
+    },
+    {
+      "Name": "Python",
+      "Version": "3.9.13",
+      "Description": "Used for scripting and experiment control."
+    },
+    {
+      "Name": "MNE-Python",
+      "Version": "1.7",
+      "Description": "Used for preprocessing and subsequent data analyses."
+    }
+  ],
+  "SourceDatasets": []
 }
