@@ -59,8 +59,7 @@
     "Description": "Participant response key code (integer; e.g., 1–4). Use 'n/a' if no response."
   },
   "rt": {
-    "Description": "Reaction time of the participant.",
-    "Units": "s"
+    "Description": "Reaction time of the participant."
   },
   "correct": {
     "Description": "Whether the participant's response was correct.",
