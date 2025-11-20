@@ -62,12 +62,7 @@
     "Description": "Reaction time of the participant."
   },
   "correct": {
-    "Description": "Whether the participant's response was correct.",
-    "Levels": {
-      "0": "Incorrect",
-      "1": "Correct",
-      "n/a": "No response/undefined"
-    }
+    "Description": "Whether the participant's response was correct (1) or incorrect (0)."
   },
   "StimulusPresentation": {
     "Description": "Software and hardware used to present stimuli (optional metadata object)."
