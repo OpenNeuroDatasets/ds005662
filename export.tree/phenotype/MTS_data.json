@@ -1,0 +1,17 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier."
+  },
+  "MTS_question": {
+    "Description": "Text of the mirror-touch synaesthesia questionnaire item answered by the participant."
+  },
+  "Experience": {
+    "Description": "Free-text description of mirror-touch experiences."
+  },
+  "Reliability": {
+    "Description": "Free-text description of how reliable or consistent the experience is."
+  },
+  "Localisation": {
+    "Description": "Free-text description of body location(s) where the experience is felt."
+  }
+}
