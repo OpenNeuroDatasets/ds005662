@@ -1,0 +1,144 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "Q1": {
+        "Description": "I am good at predicting how someone will feel.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Q2": {
+        "Description": "I am quick to spot when someone in a group is feeling awkward or uncomfortable.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Q3": {
+        "Description": "I can sense if I am intruding, even if the other person does not tell me.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Q4": {
+        "Description": "I can tune into how someone else feels rapidly and intuitively.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Q5": {
+        "Description": "I can easily work out what another person might want to talk about.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Q6": {
+        "Description": "I find it difficult to explain to others things that I understand easily, when they do not understand it first time.",
+        "Units": "Score (0, 0, 1, or 2, reverse-scored)",
+        "Levels": {
+            "0": "Strongly agree or Somewhat agree",
+            "1": "Somewhat disagree",
+            "2": "Strongly disagree"
+        }
+    },
+    "Q7": {
+        "Description": "I find it hard to know what to do in a social situation.",
+        "Units": "Score (0, 0, 1, or 2, reverse-scored)",
+        "Levels": {
+            "0": "Strongly agree or Somewhat agree",
+            "1": "Somewhat disagree",
+            "2": "Strongly disagree"
+        }
+    },
+    "Q8": {
+        "Description": "Friendships and relationships are just too difficult, so I tend not to bother with them.",
+        "Units": "Score (0, 0, 1, or 2, reverse-scored)",
+        "Levels": {
+            "0": "Strongly agree or Somewhat agree",
+            "1": "Somewhat disagree",
+            "2": "Strongly disagree"
+        }
+    },
+    "Q9": {
+        "Description": "I often find it difficult to judge if something is rude or polite.",
+        "Units": "Score (0, 0, 1, or 2, reverse-scored)",
+        "Levels": {
+            "0": "Strongly agree or Somewhat agree",
+            "1": "Somewhat disagree",
+            "2": "Strongly disagree"
+        }
+    },
+    "Q10": {
+        "Description": "I do not tend to find social situations confusing.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Q11": {
+        "Description": "I really enjoy caring for other people.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Q12": {
+        "Description": "If I say something that someone else is offended by, I think that is their problem, not mine.",
+        "Units": "Score (0, 0, 1, or 2, reverse-scored)",
+        "Levels": {
+            "0": "Strongly agree or Somewhat agree",
+            "1": "Somewhat disagree",
+            "2": "Strongly disagree"
+        }
+    },
+    "Q13": {
+        "Description": "Seeing people cry does not really upset me.",
+        "Units": "Score (0, 0, 1, or 2, reverse-scored)",
+        "Levels": {
+            "0": "Strongly agree or Somewhat agree",
+            "1": "Somewhat disagree",
+            "2": "Strongly disagree"
+        }
+    },
+    "Q14": {
+        "Description": "I usually stay emotionally detached when watching a film.",
+        "Units": "Score (0, 0, 1, or 2, reverse-scored)",
+        "Levels": {
+            "0": "Strongly agree or Somewhat agree",
+            "1": "Somewhat disagree",
+            "2": "Strongly disagree"
+        }
+    },
+    "Q15": {
+        "Description": "I tend to get emotionally involved with a friend’s problems.",
+        "Units": "Score (0, 0, 1, or 2)",
+        "Levels": {
+            "0": "Strongly disagree or Somewhat disagree",
+            "1": "Somewhat agree",
+            "2": "Strongly agree"
+        }
+    },
+    "Empathy_score": {
+        "Description": "Total Empathy Quotient score, calculated as the sum of all item scores",
+        "Units": "Sum of scores for Q1 to Q15"
+    }
+}
